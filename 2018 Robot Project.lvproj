@@ -167,6 +167,7 @@ AddOutputFilter chunkFilter
 			<Item Name="SwrvLinAlg Wheel Core v2.vi" Type="VI" URL="../Swerve Code/SwrvLinAlg Wheel Core v2.vi"/>
 		</Item>
 		<Item Name="System Logic Controllers" Type="Folder">
+			<Item Name="Controller Deadband Increaced Limit for Demos.vi" Type="VI" URL="../Controller Deadband Increaced Limit for Demos.vi"/>
 			<Item Name="Controller Deadband.vi" Type="VI" URL="../Controller Deadband.vi"/>
 			<Item Name="Drive Turbo.vi" Type="VI" URL="../Drive Turbo.vi"/>
 			<Item Name="Solinoid Control Logic.vi" Type="VI" URL="../Solinoid Control Logic.vi"/>
@@ -934,7 +935,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">81</Property>
+				<Property Name="Bld_version.build" Type="Int">83</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
